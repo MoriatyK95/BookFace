@@ -1,0 +1,9 @@
+Fred Susan 10
+Fred Turing 5
+Susan Turing 12
+Susan Ada 2
+Turing Susan 2
+Turing Cobol 2
+Turing Ada 9
+Ada Cobol 4
+Cobol Ada 6
