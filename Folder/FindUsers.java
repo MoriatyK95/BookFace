@@ -1,5 +1,5 @@
 //Author: MoriatyK95
-//Description: HW2 FindUsers, graph using linkedlist representation implement Dijkstra
+//Description: FindUsers, graph using linkedlist representation implement Dijkstra
 //Date: 10/18/2019
 /*references: Dijkstra's Shortest Path Algorithm | Graph Theory youtube video by youtube william fisset,
             Java - Command Line Arguments  youtube video by  youtuber McProgamming
